@@ -80,6 +80,7 @@ Note: Do not request to merge into main. Always target a branch named after you.
 ## 8. Verify Your Submission
 
 Check that your PR contains:
+- main.pdf
 - main.tex
 - references.bib
 - figure.pdf
